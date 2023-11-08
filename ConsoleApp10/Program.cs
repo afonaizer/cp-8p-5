@@ -7,19 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp10
 {
     class Program
-    {
-        //static void Sqr(double x)
-        //{
-        //    Console.WriteLine($"Число {x} в квадрате = {Math.Pow(x,2)}");
-        //}
-        //static void Main(string[] args)
-        //{
-        //    Console.Write("Введите число для возведения в квадрат: ");
-        //    double a = double.Parse(Console.ReadLine());
-        //    Sqr(a);
-        //    Console.ReadKey();
-        //}
-
+    {    
         //задачка 1.1
         //static void Func(double x = 1,double z = 2, double c = 3)
         //{
